@@ -1,4 +1,4 @@
-# Practice 4 - RabbitMQ + MongoDB + FastAPI
+# APIChefGPT2.00 - RabbitMQ + MongoDB + FastAPI
 
 Proyecto de mensajería asíncrona usando RabbitMQ como message broker,
 MongoDB para persistencia y FastAPI para exponer una API REST con Swagger.
